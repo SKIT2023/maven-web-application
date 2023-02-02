@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies. Bengaluru,Karnataka,India </h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to skit. hyderabad,India </h1>
+<h1 align="center"> skit- Very Good Training center for DevOps with AWS  and azure in hyderabad India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,13 +34,12 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226
-		devopstrainingblr@gmail.com
+		skit, 
+		
+		hyderabad,
+		
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:devopstrainingblr@gmail.com">Mail to skit</a>
 	</span>
 </div>
 <hr>
